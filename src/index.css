@@ -1,0 +1,10 @@
+@import url(https://fonts.bunny.net/css?family=acme:400|akaya-kanadaka:400|poppins:400,500,600,700,800,900);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-info{
+    background-image: url("https://images.unsplash.com/photo-1690068867587-d7572f95ff33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1vZi10aGUtZGF5fHx8fGVufDB8fHx8fA%3D%3D&dpr=1&auto=format%2Ccompress&fit=crop&w=599&h=310");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
